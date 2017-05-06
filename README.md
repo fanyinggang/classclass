@@ -12,4 +12,6 @@ class
 无序列表-空格 或 +空格  
 - 1
 + 2
-- 3
+- 3  
+<http://www.baidu.com>  
+[百度一下](http://www.baidu.com)
